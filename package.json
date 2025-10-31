@@ -10,6 +10,12 @@
     "check": "tsc",
     "db:push": "drizzle-kit push"
   },
+  {
+  "engines": {
+    "node": "22.x",
+    "npm": "10.x"
+  }
+}
   "dependencies": {
     "@fontsource/inter": "^5.2.5",
     "@jridgewell/trace-mapping": "^0.3.25",
